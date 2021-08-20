@@ -1,0 +1,23 @@
+[
+{
+	"largo":6.00
+	"ancho":3.00 
+	"profundidad":1.40
+	"img_Src":modelo1.jpeg
+	"material":Fibra de vidrio
+},
+{
+	"largo":7.00
+	"ancho":3.00
+	"profundidad":1.40
+	"img_Src":modelo2.jpeg
+	"material":Fibra de vidrio
+},
+{
+	"largo":8.00 
+	"ancho":4.00 
+	"profundidad":1.40 
+	"img_Src":modelo3.jpeg
+	"material":Fibra de vidrio
+}
+]
